@@ -48,38 +48,7 @@ covid_image_pipeline/
 │   ├── stats_bridgeman.py        # 黑死病数据统计分析
 │   └── stats_pinterest.py        # Pinterest 数据统计分析
 │
-├── data/                         # COVID-19 图像数据
-│   ├── raw/                      # 原始图像文件
-│   ├── meta/                     # 采集元数据
-│   │   └── unsplash_search_results.json
-│   ├── outputs/                  # 标注结果与统计
-│   │   ├── image_classification_results.csv
-│   │   ├── image_classification_results.json
-│   │   ├── ppe_ratio_chart.png
-│   │   └── statistics.json
-│   └── logs/                     # 运行日志
-│
-├── blackdeath_data/              # 黑死病（Bridgeman）图像数据
-│   ├── raw/                      # 原始图像文件
-│   ├── meta/
-│   │   └── bridgeman_results.json
-│   └── outputs/
-│       ├── bridgeman_classification.csv
-│       ├── bridgeman_classification.json
-│       ├── bridgeman_plague_doctor_ratio.png
-│       └── bridgeman_stats.json
-│
-├── pinterest_data/               # Pinterest 社交图像数据
-│   ├── raw/                      # 原始图像文件
-│   ├── meta/
-│   │   ├── black_death_meta.json
-│   │   └── plague_doctor_meta.json
-│   └── outputs/
-│       ├── black_death_classify.csv
-│       ├── black_death_classify.json
-│       ├── plague_doctor_classify.csv
-│       ├── plague_doctor_classify.json
-│       └── pinterest_comparison_stats.json
+├── data/                         # 图像数据
 │
 └── models/                       # 本地模型缓存（Qwen2.5-VL）
 ```
