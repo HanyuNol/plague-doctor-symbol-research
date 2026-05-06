@@ -1,0 +1,11 @@
+python-dotenv==1.0.1
+requests==2.32.3
+pandas==2.2.2
+Pillow==10.4.0
+tqdm==4.66.4
+transformers==4.57.0
+accelerate==1.1.1
+torch
+torchvision
+qwen-vl-utils
+matplotlib==3.9.0
