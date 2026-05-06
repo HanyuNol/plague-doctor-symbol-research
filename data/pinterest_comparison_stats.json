@@ -1,0 +1,11 @@
+{
+  "black_death": {
+    "total_people_images": 165,
+    "plague_doctor_count": 10,
+    "grim_reaper_count": 87
+  },
+  "plague_doctor": {
+    "valid_plague_doctor_images": 175,
+    "ratio_vs_blackdeath_plague": 17.5
+  }
+}

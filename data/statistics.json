@@ -1,0 +1,28 @@
+{
+  "total_people_images": 167,
+  "successful_classifications_among_people": 167,
+  "error_count_among_people": 0,
+  "has_protective_medical_staff_among_people": {
+    "count": 62,
+    "ratio": 0.3712574850299401
+  },
+  "top_tags_among_people": {
+    "ppe": 123,
+    "gloves": 87,
+    "mask": 86,
+    "nurse": 42,
+    "medical_staff": 39,
+    "doctor": 37,
+    "protective_suit": 27,
+    "face_shield": 25,
+    "covid_sign": 23,
+    "vaccination": 12,
+    "testing": 6,
+    "virus": 5,
+    "laboratory": 3,
+    "indoor": 2,
+    "microscope": 2,
+    "coronavirus": 2,
+    "hospital": 1
+  }
+}

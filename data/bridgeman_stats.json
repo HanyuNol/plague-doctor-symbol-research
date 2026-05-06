@@ -1,0 +1,23 @@
+{
+  "total_people_images": 476,
+  "valid_classifications_among_people": 476,
+  "has_plague_doctor": {
+    "count": 76,
+    "ratio": 0.15966386554621848
+  },
+  "top_tags_among_people": {
+    "costume": 476,
+    "historical": 476,
+    "medieval": 475,
+    "physician": 475,
+    "beak_mask": 474,
+    "black_death": 474,
+    "mask": 474,
+    "robe": 474,
+    "staff": 474,
+    "plague_doctor": 448,
+    "crowd": 187,
+    "indoor": 163,
+    "outdoor": 107
+  }
+}
